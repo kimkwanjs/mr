@@ -1,7 +1,6 @@
 # Mometum Replica
 
-## https://momentumdash.com/ 를 참조 하여 만든 사이트
-----------------------------------------------------------
+https://momentumdash.com/ 를 참조 하여 만든 사이트
 
 ## 기능
 + openweathermap api 사용해 현재 날씨와 위치 제공
