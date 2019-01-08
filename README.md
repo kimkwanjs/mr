@@ -7,4 +7,8 @@ https://momentumdash.com/ 를 참조 하여 만든 사이트
 + 현재 시간 제공
 + 메모기능
 + 랜덤으로 나타나는 배경이미지
-+ 
++ 반응형
+
+
+### 링크
+[DEMO SITE](https://kimkwanjs.github.io/mr/)
