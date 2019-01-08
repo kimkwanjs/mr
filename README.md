@@ -1,7 +1,10 @@
 # Mometum Replica
 
-> This is a blockqute. https://momentumdash.com/ 를 참조 하여 만든 사이트
+* https://momentumdash.com/ 를 참조 하여 만든 사이트
  
-> This is a blockqute. 기능
- 
- 
+* 기능
+
+> - 시간
+> - 날씨
+> - 메모
+
