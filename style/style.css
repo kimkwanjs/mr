@@ -31,7 +31,7 @@ body{
 }
 @keyframes loading{
   0%{
-    color:orange
+    color:#000;
   }
   100%{
     color:#fff;
