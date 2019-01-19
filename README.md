@@ -1,4 +1,4 @@
-# Mometum Replica
+# Momentum
 
 https://momentumdash.com/ 를 참조 하여 만든 사이트
 
@@ -9,6 +9,7 @@ https://momentumdash.com/ 를 참조 하여 만든 사이트
 + 랜덤으로 나타나는 배경이미지
 + 반응형
 
++ 업데이트 : 로딩중기능 생성
 
 ### 링크
 [DEMO SITE](https://kimkwanjs.github.io/mr/)
