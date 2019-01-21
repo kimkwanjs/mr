@@ -61,6 +61,7 @@ function removeMemo(e){
 function init(){
   let MEMO_ITEM = JSON.parse(sessionStorage.getItem('memoList'))
   if(MEMO_ITEM){
+    showMemoForm()
     MEMO_ITEM.forEach((data) => {
       saveMemoList(data.memoItem)
       paintMemo(data.memoItem)
